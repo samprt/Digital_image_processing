@@ -2,7 +2,7 @@
 cmake_minimum_required(VERSION 2.8)
 
 # Define project name
-project(NAO)
+project(TE6)
 
 # Find OpenCV, you may need to set OpenCV_DIR variable
 # to the absolute path to the directory containing OpenCVConfig.cmake file
@@ -30,7 +30,7 @@ src/*.cpp
 )
 
 # Declare the executable target built from your sources
-add_executable(NAO "${source_files}")
+add_executable(TE6 "${source_files}")
 
 # Link your application with OpenCV libraries
 target_link_libraries(${PROJECT_NAME} ${OpenCV_LIBS})
