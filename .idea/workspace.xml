@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Digital_image_processing" targetName="NAO" />
+      <config projectName="Digital_image_processing" targetName="Traitement_video" />
+      <config projectName="Digital_image_processing" targetName="TE4" />
+      <config projectName="Digital_image_processing" targetName="TE3" />
+      <config projectName="Digital_image_processing" targetName="TE6" />
+      <config projectName="Digital_image_processing" targetName="TE_Raspy" />
+      <config projectName="Digital_image_processing" targetName="pipeline" />
+      <config projectName="Digital_image_processing" targetName="TE2" />
+      <config projectName="Digital_image_processing" targetName="TE1" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="22633c16-820e-4462-a95f-704112261f00" name="Default Changelist" comment="Finished first part of Raspberry project">
+      <change afterPath="$PROJECT_DIR$/CodeImageSamuelProuten_ROB/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeImageSamuelProuten_ROB/src/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TE_Raspy/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/TE_Raspy/src/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1opLHC6hTkGCDJmS36NvT6SlVIx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CodeImageSamuelProuten_ROB" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CodeImageSamuelProuten_ROB" />
+      <recent name="$PROJECT_DIR$/CodeImageSamuelProuten_ROB/src" />
+      <recent name="$PROJECT_DIR$/CodeImageSamuelProuten_ROB_Ex_1" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.pipeline">
+    <configuration name="NAO" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Digital_image_processing" TARGET_NAME="NAO" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Digital_image_processing" RUN_TARGET_NAME="NAO">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TE1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Digital_image_processing" TARGET_NAME="TE1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Digital_image_processing" RUN_TARGET_NAME="TE1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TE2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Digital_image_processing" TARGET_NAME="TE2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Digital_image_processing" RUN_TARGET_NAME="TE2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TE3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Digital_image_processing" TARGET_NAME="TE3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Digital_image_processing" RUN_TARGET_NAME="TE3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TE4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Digital_image_processing" TARGET_NAME="TE4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Digital_image_processing" RUN_TARGET_NAME="TE4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TE6" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Digital_image_processing" TARGET_NAME="TE6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Digital_image_processing" RUN_TARGET_NAME="TE6">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TE_Raspy" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Digital_image_processing" TARGET_NAME="TE_Raspy" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Digital_image_processing" RUN_TARGET_NAME="TE_Raspy">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Traitement_video" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Digital_image_processing" TARGET_NAME="Traitement_video" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Digital_image_processing" RUN_TARGET_NAME="Traitement_video">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pipeline" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Digital_image_processing" TARGET_NAME="pipeline" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Digital_image_processing" RUN_TARGET_NAME="pipeline">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.pipeline" />
+      <item itemvalue="CMake Application.TE1" />
+      <item itemvalue="CMake Application.TE2" />
+      <item itemvalue="CMake Application.TE3" />
+      <item itemvalue="CMake Application.TE4" />
+      <item itemvalue="CMake Application.TE6" />
+      <item itemvalue="CMake Application.TE_Raspy" />
+      <item itemvalue="CMake Application.NAO" />
+      <item itemvalue="CMake Application.Traitement_video" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22633c16-820e-4462-a95f-704112261f00" name="Default Changelist" comment="" />
+      <created>1613978495159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613978495159</updated>
+      <workItem from="1613978496307" duration="10277000" />
+      <workItem from="1615188845720" duration="7361000" />
+      <workItem from="1615799881718" duration="2227000" />
+      <workItem from="1615802219891" duration="4843000" />
+      <workItem from="1617111690791" duration="11000" />
+      <workItem from="1617119997427" duration="3154000" />
+    </task>
+    <task id="LOCAL-00001" summary="TP 6">
+      <created>1613988959506</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613988959506</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Finished first part of Raspberry project">
+      <created>1615199514419</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615199514419</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TP 6" />
+    <MESSAGE value="Finished first part of Raspberry project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished first part of Raspberry project" />
+  </component>
+</project>
